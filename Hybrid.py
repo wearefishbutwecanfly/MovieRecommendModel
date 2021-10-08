@@ -1,4 +1,4 @@
-from Mophat import *
+from CSV_load import *
 
 print("START TRAINING")
 #Cosine sim setting

@@ -1,3 +1,10 @@
+# Installation
+# pip install numpy
+# pip install surprise
+# pip install -U scikit-learn
+# pip install pandas
+# print("-------------INSTALL SURPRISE COMPLETE-------------------")
+
 import pickle
 import pandas as pd
 import numpy as np
